@@ -1,1 +1,1 @@
-# Reconstruction of frescoes by sequential layers of feature-extraction
+# Reconstruction of frescoes by sequential layers of feature extraction
